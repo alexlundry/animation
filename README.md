@@ -7,7 +7,7 @@ You can use Github Markdown in order to format this Read Me file.  You can add *
 
 Once you have pushed an HTML file into this repository, so long as Github Pages are enabled, you can find that file at the following address:
 
-> https://<username>.github.io/<repo_name>/<name_of_html_file>.html
+[https://YOUR_USER_NAME.github.io/YOUR_REPO_NAME/NAME_OF_HTML_FILE.html]()
 
 So, as both test and example, we should be able to find the Animation Demo, [here](https://alexlundry.github.io/animation/animation.html).
 
