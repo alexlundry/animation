@@ -11,4 +11,4 @@ Once you have pushed an HTML file into this repository, so long as Github Pages 
 
 So, as both test and example, we should be able to find the Animation Demo, [here](https://alexlundry.github.io/animation/animation.html).
 
-Or maybe here: [](https://alexlundry.github.io/animation/animation.html)
+The implication of all of this for YOU is that you can use this method to publish your final project online.  You can create interactive graphics in an R notebook or markdown file, then knit it as an HTML document, and push it into a Github repository that has Github Pages enabled.  You know have an online interactive project.  
